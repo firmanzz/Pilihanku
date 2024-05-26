@@ -1,0 +1,1164 @@
+.logo-icon4 {
+    height: 50px;
+    width: 264.6px;
+    position: relative;
+    object-fit: cover;
+  }
+  .beranda2 {
+    height: 13.2px;
+    position: relative;
+    display: inline-block;
+    flex-shrink: 0;
+    min-width: 76px;
+  }
+  .menu-options {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-lg-4) 0 0;
+  }
+  .survey3 {
+    height: 13.2px;
+    position: relative;
+    display: inline-block;
+    flex-shrink: 0;
+    min-width: 61px;
+  }
+  .menu-options1 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-lg-4) 0 0;
+  }
+  .kandidat2 {
+    height: 13px;
+    position: relative;
+    display: inline-block;
+    flex-shrink: 0;
+    min-width: 82px;
+  }
+  .candidate {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-lg-5) 0 0;
+  }
+  .bantuan4 {
+    height: 13.2px;
+    position: relative;
+    display: inline-block;
+    flex-shrink: 0;
+    min-width: 76px;
+  }
+  .header2,
+  .menu-options2 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-lg-4) 0 0;
+  }
+  .header2 {
+    align-self: stretch;
+    background-color: var(--color-white);
+    border: 1px solid var(--color-black);
+    flex-direction: row;
+    justify-content: center;
+    padding: var(--padding-22xl) var(--padding-xl);
+    gap: var(--gap-60xl);
+    text-align: center;
+    font-size: var(--font-size-xl);
+    color: var(--color-black);
+    font-family: var(--font-hk-grotesk);
+  }
+  .background2 {
+    width: 1440px;
+    height: 1600px;
+    position: relative;
+    background-color: var(--color-red);
+    display: none;
+    max-width: 100%;
+  }
+  .berita-dan-isu {
+    margin: 0;
+    position: relative;
+    font-size: inherit;
+    font-weight: 900;
+    font-family: inherit;
+    z-index: 1;
+  }
+  .news-header {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 0 var(--padding-xl);
+  }
+  .news-content-child {
+    align-self: stretch;
+    position: relative;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    z-index: 1;
+  }
+  .news-content,
+  .news-content-wrapper {
+    display: flex;
+    align-items: flex-start;
+    max-width: 100%;
+  }
+  .news-content {
+    flex: 1;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 116px;
+  }
+  .news-content-wrapper {
+    align-self: stretch;
+    flex-direction: row;
+    justify-content: flex-end;
+    padding: 0 var(--padding-lg) 0 var(--padding-8xl);
+    box-sizing: border-box;
+    text-align: left;
+    font-size: var(--font-size-31xl);
+    color: var(--color-white);
+    font-family: var(--font-hk-grotesk);
+  }
+  .gambar-berita-icon {
+    width: 500px;
+    position: relative;
+    border-radius: var(--br-3xs);
+    max-height: 100%;
+    object-fit: cover;
+    max-width: 100%;
+  }
+  .kriminalisasi-ruang-privat {
+    margin: 0;
+    align-self: stretch;
+    position: relative;
+    font-size: inherit;
+    font-weight: 900;
+    font-family: inherit;
+  }
+  .ancaman-kuhp-terhadap {
+    margin: 0;
+    width: 719px;
+    height: 76.4px;
+    position: relative;
+    font-size: var(--font-size-17xl);
+    font-weight: 700;
+    font-family: inherit;
+    display: inline-block;
+    flex-shrink: 0;
+    max-width: 103%;
+  }
+  .calendar-icon {
+    height: 20px;
+    width: 14.6px;
+    position: relative;
+    border-radius: var(--br-3xs);
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .oktober-2022 {
+    height: 37.6px;
+    flex: 1;
+    position: relative;
+    font-weight: 300;
+    display: inline-block;
+  }
+  .filter-funnel-02-icon {
+    height: 20px;
+    width: 12.6px;
+    position: relative;
+    border-radius: var(--br-3xs);
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .politik {
+    height: 37.6px;
+    width: 50.5px;
+    position: relative;
+    font-weight: 300;
+    text-align: left;
+    display: inline-block;
+    flex-shrink: 0;
+  }
+  .article-details {
+    width: 259.7px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-sm);
+    font-size: var(--font-size-sm);
+  }
+  .judul {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 0 2px;
+    box-sizing: border-box;
+    gap: 5px;
+    max-width: 100%;
+  }
+  .seberapa-baiknya-negara-menjag1 {
+    white-space: pre-wrap;
+  }
+  .memperbaiki-lingkup-hukum1 {
+    text-decoration: underline;
+  }
+  .memperbaiki-lingkup-hukum {
+    color: inherit;
+    white-space: pre-wrap;
+  }
+  .tindak-pidana-perzinaan {
+    text-decoration: underline;
+  }
+  .tindak-pidana-perzinaan-dan-ko {
+    color: inherit;
+    white-space: pre-wrap;
+  }
+  .seberapa-baiknya-negara-menjag {
+    margin: 0;
+  }
+  .delik-aduan1 {
+    text-decoration: underline;
+  }
+  .delik-aduan {
+    color: inherit;
+    white-space: pre-wrap;
+  }
+  .meski-merupakan-delik-aduan-ya {
+    margin: 0;
+  }
+  .seberapa-baiknya-negara-container {
+    align-self: stretch;
+    height: 260px;
+    position: relative;
+    font-size: var(--font-size-xl);
+    line-height: 26px;
+    font-weight: 500;
+    text-align: justify;
+    display: inline-block;
+  }
+  .news-body,
+  .news-caption {
+    display: flex;
+    justify-content: flex-start;
+    gap: var(--gap-6xl);
+    max-width: 100%;
+  }
+  .news-caption {
+    flex: 1;
+    flex-direction: column;
+    align-items: center;
+    padding: 0 var(--padding-5xs);
+    box-sizing: border-box;
+    min-width: 468px;
+  }
+  .news-body {
+    align-self: stretch;
+    flex-direction: row;
+    align-items: flex-start;
+  }
+  .selain-itu-ada-pula-kekhawati1 {
+    white-space: pre-wrap;
+  }
+  .masyarakat-khawatir1 {
+    text-decoration: underline;
+  }
+  .masyarakat-khawatir {
+    color: inherit;
+    white-space: pre-wrap;
+  }
+  .timbulnya-kisruh-bukan-hanya-d {
+    white-space: pre-wrap;
+  }
+  .blank-line6,
+  .blank-line7,
+  .mengapa-orang-muda,
+  .selain-itu-ada-pula-kekhawati {
+    margin: 0;
+  }
+  .kriminalisasi-ruang-privat-men2 {
+    white-space: pre-wrap;
+  }
+  .kriminalisasi-ruang-privat-men1 {
+    margin-bottom: 0;
+    white-space: pre-wrap;
+  }
+  .pasal-perzinaan-dan-kohabitasi1 {
+    white-space: pre-wrap;
+  }
+  .pasal-perzinaan-dan-kohabitasi {
+    margin-bottom: 0;
+    white-space: pre-wrap;
+  }
+  .sikap-orang-muda-yang-biasanya,
+  .sikap-orang-muda-yang-biasanya1 {
+    white-space: pre-wrap;
+  }
+  .kriminalisasi-ruang-privat-men {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    padding-left: var(--padding-8xl);
+  }
+  .author1,
+  .selain-itu-ada-container {
+    position: relative;
+    display: inline-block;
+    flex-shrink: 0;
+  }
+  .selain-itu-ada-container {
+    align-self: stretch;
+    height: 355px;
+    font-size: var(--font-size-xl);
+    font-weight: 500;
+    text-align: justify;
+  }
+  .author1 {
+    margin: 0;
+    width: 195px;
+    height: 76px;
+    font-size: inherit;
+    font-weight: 700;
+    font-family: inherit;
+  }
+  .author-info-child {
+    height: 150px;
+    width: 150px;
+    position: relative;
+    border-radius: var(--br-3xs);
+    object-fit: cover;
+  }
+  .muhamad-firman-firdaus {
+    height: 30px;
+    flex: 1;
+    position: relative;
+    font-weight: 500;
+    display: inline-block;
+  }
+  .check-verified-01-icon {
+    height: 20px;
+    width: 20px;
+    position: absolute;
+    margin: 0 !important;
+    top: 5px;
+    left: 240px;
+    border-radius: var(--br-3xs);
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .author-name-details {
+    width: 313px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    gap: var(--gap-3xs);
+  }
+  .social-icons1 {
+    height: 18.2px;
+    width: 20px;
+    position: relative;
+    border-radius: var(--br-3xs);
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .muh-firmanf {
+    height: 30px;
+    flex: 1;
+    position: relative;
+    font-weight: 500;
+    display: inline-block;
+  }
+  .social-icons {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 15px;
+  }
+  .social-icons3 {
+    height: 20px;
+    width: 20px;
+    position: relative;
+    border-radius: var(--br-3xs);
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .muh-firmanf1 {
+    height: 30px;
+    flex: 1;
+    position: relative;
+    font-weight: 500;
+    display: inline-block;
+  }
+  .social-icons2 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: var(--gap-sm);
+  }
+  .author-socials {
+    flex: 1;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0 192px 0 0;
+    box-sizing: border-box;
+    gap: var(--gap-3xs);
+    min-width: 351px;
+  }
+  .author,
+  .author-info,
+  .author-socials,
+  .background-group,
+  .news-details {
+    display: flex;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .author-info {
+    align-self: stretch;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 27px;
+    font-size: var(--font-size-xl);
+  }
+  .author,
+  .background-group,
+  .news-details {
+    flex-direction: column;
+  }
+  .author {
+    width: 717px;
+    align-items: flex-start;
+    text-align: left;
+    font-size: var(--font-size-17xl);
+  }
+  .background-group,
+  .news-details {
+    align-self: stretch;
+    box-sizing: border-box;
+  }
+  .news-details {
+    border-radius: var(--br-3xs);
+    background-color: var(--color-white);
+    overflow: hidden;
+    align-items: flex-start;
+    padding: var(--padding-41xl) var(--padding-31xl);
+    gap: var(--gap-6xl);
+    z-index: 1;
+    text-align: center;
+    font-size: 48px;
+    color: var(--color-black);
+    font-family: var(--font-hk-grotesk);
+  }
+  .background-group {
+    background-color: var(--color-red);
+    align-items: flex-end;
+    padding: 97px var(--padding-33xl) 13.1px 43px;
+    gap: 84px;
+  }
+  .contact-us2 {
+    margin: 0;
+    position: relative;
+    font-size: inherit;
+    font-weight: 700;
+    font-family: inherit;
+  }
+  .contact-info {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 var(--padding-10xl);
+  }
+  .bandung-jawa-barat2,
+  .indonesia-445562,
+  .jl-pahlawan-no2,
+  .p17,
+  .pilihankucom2 {
+    margin: 0;
+  }
+  .jl-pahlawan-no-container2 {
+    position: relative;
+    font-size: var(--font-size-5xl);
+  }
+  .footer-content1 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-smi);
+  }
+  .logo-icon5 {
+    align-self: stretch;
+    flex: 1;
+    position: relative;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+  }
+  .explore3 {
+    margin: 0;
+    position: relative;
+    font-size: inherit;
+    font-weight: 700;
+    font-family: inherit;
+    display: inline-block;
+    min-width: 123px;
+  }
+  .explore2 {
+    width: 359.8px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 0 var(--padding-xl);
+    box-sizing: border-box;
+    max-width: 100%;
+  }
+  .bantuan5,
+  .tentang-pilihanku2,
+  .tim-kami2 {
+    margin: 0;
+  }
+  .tentang-pilihanku-tim-container2 {
+    position: relative;
+  }
+  .about {
+    width: 360.3px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 0 var(--padding-xl);
+    box-sizing: border-box;
+    max-width: 100%;
+    font-size: var(--font-size-5xl);
+  }
+  .brand-details,
+  .brand-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .brand-details {
+    align-self: stretch;
+    height: 265px;
+    align-items: flex-end;
+    gap: var(--gap-smi-5);
+  }
+  .brand-info {
+    height: 327px;
+    width: 416.4px;
+    align-items: flex-start;
+    padding: 0 var(--padding-8xl) 0 0;
+    box-sizing: border-box;
+  }
+  .social-media3 {
+    margin: 0;
+    position: relative;
+    font-size: inherit;
+    font-weight: 700;
+    font-family: inherit;
+  }
+  .icon-facebook2,
+  .icon-instagram2 {
+    height: 25px;
+    width: 27.2px;
+    position: relative;
+  }
+  .icon-facebook2 {
+    width: 18.8px;
+  }
+  .platform-facebook {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-end;
+    padding: 0 0 var(--padding-11xs-4);
+  }
+  .icon-twitter2 {
+    height: 25.4px;
+    width: 30px;
+    position: relative;
+  }
+  .social-platforms {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: space-between;
+    gap: var(--gap-xl);
+  }
+  .social-container,
+  .social-links {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .social-container {
+    align-self: stretch;
+    gap: var(--gap-xs);
+  }
+  .social-links {
+    height: 215px;
+    width: 204px;
+  }
+  .berita,
+  .footer2 {
+    background-color: var(--color-white);
+    border: 1px solid var(--color-black);
+    box-sizing: border-box;
+    display: flex;
+  }
+  .footer2 {
+    align-self: stretch;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: space-between;
+    padding: var(--padding-12xs) var(--padding-188xl) var(--padding-lg)
+      var(--padding-186xl);
+    max-width: 100%;
+    gap: var(--gap-xl);
+    text-align: center;
+    font-size: var(--font-size-17xl);
+    color: var(--color-black);
+    font-family: var(--font-hk-grotesk);
+  }
+  .berita {
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    line-height: normal;
+    letter-spacing: normal;
+  }
+  @media screen and (max-width: 1300px) {
+    .gambar-berita-icon {
+      flex: 1;
+    }
+    .news-body {
+      flex-wrap: wrap;
+    }
+    .news-details {
+      padding: var(--padding-20xl) var(--padding-6xl);
+      box-sizing: border-box;
+    }
+    .background-group {
+      padding-top: 63px;
+      padding-bottom: var(--padding-xl);
+      box-sizing: border-box;
+    }
+    .footer2 {
+      flex-wrap: wrap;
+    }
+  }
+  @media screen and (max-width: 1125px) {
+    .header2 {
+      gap: var(--gap-20xl);
+    }
+    .background-group {
+      padding-top: var(--padding-22xl);
+      box-sizing: border-box;
+    }
+  }
+  @media screen and (max-width: 800px) {
+    .berita-dan-isu {
+      font-size: var(--font-size-21xl);
+    }
+    .news-content {
+      gap: 58px;
+    }
+    .kriminalisasi-ruang-privat {
+      font-size: 38px;
+    }
+    .ancaman-kuhp-terhadap {
+      font-size: var(--font-size-10xl);
+    }
+    .news-caption {
+      min-width: 100%;
+    }
+    .author1 {
+      font-size: var(--font-size-10xl);
+    }
+    .author-socials {
+      padding-right: 96px;
+      box-sizing: border-box;
+      min-width: 100%;
+    }
+    .news-details {
+      padding-top: var(--padding-6xl);
+      padding-bottom: var(--padding-6xl);
+      box-sizing: border-box;
+    }
+    .background-group {
+      gap: 42px;
+      padding-left: var(--padding-2xl);
+      padding-right: var(--padding-7xl);
+      box-sizing: border-box;
+    }
+    .contact-us2,
+    .explore3,
+    .social-media3 {
+      font-size: var(--font-size-10xl);
+    }
+    .footer2 {
+      padding-left: var(--padding-83xl);
+      padding-right: var(--padding-84xl);
+      box-sizing: border-box;
+    }
+  }
+  @media screen and (max-width: 450px) {
+    .header2 {
+      gap: var(--gap-xl);
+    }
+    .berita-dan-isu {
+      font-size: var(--font-size-11xl);
+    }
+    .news-content {
+      gap: var(--gap-10xl);
+    }
+    .kriminalisasi-ruang-privat {
+      font-size: var(--font-size-10xl);
+    }
+    .ancaman-kuhp-terhadap {
+      font-size: var(--font-size-3xl);
+    }
+    .seberapa-baiknya-negara-container,
+    .selain-itu-ada-container {
+      font-size: var(--font-size-base);
+    }
+    .author1 {
+      font-size: var(--font-size-3xl);
+    }
+    .muh-firmanf,
+    .muh-firmanf1,
+    .muhamad-firman-firdaus {
+      font-size: var(--font-size-base);
+    }
+    .author-socials {
+      padding-right: var(--padding-xl);
+      box-sizing: border-box;
+    }
+    .background-group {
+      gap: var(--gap-2xl);
+      padding-top: var(--padding-8xl);
+      box-sizing: border-box;
+    }
+    .contact-us2 {
+      font-size: var(--font-size-3xl);
+    }
+    .jl-pahlawan-no-container2 {
+      font-size: var(--font-size-lgi);
+    }
+    .explore3 {
+      font-size: var(--font-size-3xl);
+    }
+    .tentang-pilihanku-tim-container2 {
+      font-size: var(--font-size-lgi);
+    }
+    .social-media3 {
+      font-size: var(--font-size-3xl);
+    }
+    .footer2 {
+      padding-left: var(--padding-xl);
+      padding-right: var(--padding-xl);
+      box-sizing: border-box;
+    }
+  }
+  .news-image {
+    width: 570px;
+    height: 100%;
+    position: absolute;
+    margin: 0 !important;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    background-color: var(--color-white);
+  }
+  .kategori {
+    flex: 1;
+    position: relative;
+    letter-spacing: 0.03em;
+    line-height: 35px;
+    z-index: 1;
+  }
+  .kategori-wrapper {
+    width: 250px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 var(--padding-45xl);
+    box-sizing: border-box;
+  }
+  .bw19t2ib9bpnk2fs602dnlwloc-2-icon {
+    height: 75px;
+    width: 98.4px;
+    position: relative;
+    object-fit: cover;
+  }
+  .berita-semua-1 {
+    display: inline-block;
+    min-width: 102px;
+  }
+  .berita-semua-1,
+  .penulis-berita-semua {
+    position: relative;
+    letter-spacing: 0.03em;
+    line-height: 35px;
+  }
+  .news-info,
+  .news-items {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-10xs);
+  }
+  .news-items {
+    align-self: stretch;
+    height: 75px;
+    flex-direction: row;
+    padding: 0 var(--padding-45xl) var(--padding-11xs);
+    box-sizing: border-box;
+    gap: var(--gap-mini-3);
+    cursor: pointer;
+    z-index: 1;
+  }
+  .bw19t2ib9bpnk2fs602dnlwloc-3-icon {
+    height: 79.3px;
+    width: 98.4px;
+    position: relative;
+    object-fit: cover;
+  }
+  .berita-semua-3 {
+    display: inline-block;
+    min-width: 102px;
+  }
+  .berita-semua-3,
+  .penulis-berita-semua1 {
+    position: relative;
+    letter-spacing: 0.03em;
+    line-height: 35px;
+  }
+  .info-items1 {
+    align-self: stretch;
+    flex-direction: column;
+    gap: var(--gap-10xs);
+  }
+  .info-items1,
+  .news-info1,
+  .news-items3 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .news-info1 {
+    flex: 1;
+    flex-direction: column;
+    padding: var(--padding-10xs-6) 0 0;
+    box-sizing: border-box;
+    min-width: 99px;
+  }
+  .news-items3 {
+    align-self: stretch;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: var(--gap-mini-3);
+    cursor: pointer;
+    z-index: 1;
+  }
+  .bw19t2ib9bpnk2fs602dnlwloc-1-icon {
+    height: 79.3px;
+    width: 98.4px;
+    position: relative;
+    object-fit: cover;
+  }
+  .berita-semua-2 {
+    display: inline-block;
+    min-width: 102px;
+  }
+  .berita-semua-2,
+  .penulis-berita-semua2 {
+    position: relative;
+    letter-spacing: 0.03em;
+    line-height: 35px;
+  }
+  .info-items2,
+  .info-items3,
+  .news-info2 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .info-items3 {
+    flex-direction: row;
+    padding: 0 0 0 var(--padding-12xs);
+  }
+  .info-items2,
+  .news-info2 {
+    flex-direction: column;
+  }
+  .info-items2 {
+    align-self: stretch;
+    gap: var(--gap-10xs);
+  }
+  .news-info2 {
+    flex: 1;
+    padding: 3px 0 0;
+    box-sizing: border-box;
+    min-width: 100px;
+  }
+  .news-items4 {
+    align-self: stretch;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 14.6px;
+    cursor: pointer;
+    z-index: 1;
+  }
+  .berita-1,
+  .news-items1,
+  .news-items2,
+  .news-items4,
+  .news-list {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .news-items2 {
+    flex: 1;
+    flex-direction: column;
+    gap: 24.3px;
+  }
+  .berita-1,
+  .news-items1,
+  .news-list {
+    max-width: 100%;
+  }
+  .news-items1 {
+    width: 395px;
+    flex-direction: row;
+    padding: 0 var(--padding-45xl);
+    box-sizing: border-box;
+  }
+  .berita-1,
+  .news-list {
+    flex-direction: column;
+  }
+  .news-list {
+    width: 450px;
+    gap: 27.4px;
+  }
+  .berita-1 {
+    flex: 1;
+    padding: 15.8px 0 44.7px;
+    box-sizing: border-box;
+    position: relative;
+    gap: 19.2px;
+  }
+  .chevron-down-icon,
+  .filter {
+    position: relative;
+    flex-shrink: 0;
+  }
+  .filter {
+    width: 59px;
+    letter-spacing: 0.03em;
+    line-height: 21px;
+    display: flex;
+    white-space: pre-wrap;
+    align-items: center;
+  }
+  .chevron-down-icon {
+    width: 13px;
+    height: 15.3px;
+    overflow: hidden;
+  }
+  .dropdown {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-end;
+    padding: 0 0 1.9px;
+  }
+  .filter-options {
+    width: 97px;
+    margin: 0 !important;
+    position: absolute;
+    top: 16.3px;
+    right: 33.8px;
+    border-radius: var(--br-8xs);
+    border: 1px solid var(--color-black);
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: flex-start;
+    gap: 21.2px;
+    z-index: 1;
+  }
+  .semua {
+    width: 179px;
+    position: relative;
+    letter-spacing: 0.03em;
+    line-height: 35px;
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+  }
+  .filter-selection {
+    width: 116px;
+    margin: 0 !important;
+    position: absolute;
+    top: 7.1px;
+    left: 132.8px;
+    border-radius: var(--br-8xs);
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 0 5.7px;
+    box-sizing: border-box;
+    z-index: 1;
+  }
+  .ekonomi {
+    flex: 1;
+    position: relative;
+    letter-spacing: 0.03em;
+    line-height: 35px;
+    white-space: pre-wrap;
+  }
+  .category-items {
+    width: 90px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+  }
+  .lingkungan {
+    flex: 1;
+    position: relative;
+    letter-spacing: 0.03em;
+    line-height: 35px;
+    white-space: pre-wrap;
+  }
+  .category-items1 {
+    width: 90px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+  }
+  .sosial {
+    flex: 1;
+    position: relative;
+    letter-spacing: 0.03em;
+    line-height: 35px;
+    white-space: pre-wrap;
+  }
+  .category-items2 {
+    width: 90px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+  }
+  .politik {
+    flex: 1;
+    position: relative;
+    letter-spacing: 0.03em;
+    line-height: 35px;
+    white-space: pre-wrap;
+  }
+  .category-items3 {
+    width: 90px;
+    flex-direction: row;
+    flex-shrink: 0;
+  }
+  .category-filter,
+  .category-items3,
+  .filter-container {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .category-filter {
+    height: 138.4px;
+    width: 97px;
+    margin: 0 !important;
+    position: absolute;
+    top: 47.8px;
+    right: 33.8px;
+    border-radius: var(--br-8xs);
+    border: 1px solid var(--color-black);
+    box-sizing: border-box;
+    flex-direction: column;
+    padding: 0 0 33.4px;
+    z-index: 1;
+  }
+  .filter-container {
+    width: 620px;
+    flex-direction: row;
+    position: relative;
+    gap: var(--gap-3xs);
+    max-width: 104%;
+    flex-shrink: 0;
+  }
+  .berita-filter {
+    width: 601px;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 0 0 var(--padding-6xs) 0;
+    box-sizing: border-box;
+    z-index: 1;
+  }
+  .background-parent,
+  .berita-filter,
+  .berita-filter-wrapper {
+    display: flex;
+    align-items: flex-start;
+    max-width: 100%;
+  }
+  .berita-filter-wrapper {
+    width: 5000px;
+    flex-direction: row;
+    justify-content: center;
+    font-size: var(--font-size-sm);
+  }
+  .berita-lainnya{
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    box-sizing: border-box;
+    max-width: 100%;
+    font-size: var(--font-size-11xl);
+  }
