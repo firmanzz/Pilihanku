@@ -2,8 +2,8 @@
 <html>
   <head>
     <meta charset="utf-8" />
+    <title>Pilihanku.com</title>
     <meta name="viewport" content="initial-scale=1, width=device-width" />
-
     <link rel="stylesheet" href="css/global.css" />
     <link rel="stylesheet" href="css/styles.css" />
 
@@ -239,8 +239,7 @@
                 <div class="ellipse-div"></div>
                 <button
                   class="tombol-detail-paslon-21"
-                  id="tombolDetailPaslon21"
-                >
+                  id="tombolDetailPaslon21">
                   <div class="tombol-detail-paslon-2-item"></div>
                   <div class="survey1">Survey</div>
                 </button>
@@ -344,6 +343,13 @@
       if (tombolDetailPaslon3) {
         tombolDetailPaslon3.addEventListener("click", function (e) {
           window.location.href = "./detail-calon-3.html";
+        });
+      }
+
+      var tombolDetailPaslon3 = document.getElementById("tombolDetailPaslon21");
+      if (tombolDetailPaslon3) {
+        tombolDetailPaslon3.addEventListener("click", function (e) {
+          window.location.href = "./survey.html";
         });
       }
       </script>

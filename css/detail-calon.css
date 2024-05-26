@@ -833,6 +833,31 @@
   max-width: 100%;
   z-index: 1;
 }
+.survey-1 {
+  flex: 1;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-3xs);
+  background-color:darkgrey;
+  overflow: hidden;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-xl) 31px;
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  max-width: 100%;
+  width: 700px;
+  z-index: 1;
+}
+.survey-2 {
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  padding: var(--padding-xl) 100px;
+  text-align: center;
+  align-items: center;
+  max-width: 100%;
+}
 .partner-info {
   align-self: stretch;
   flex-direction: row;
@@ -847,7 +872,7 @@
 .partner-info {
   display: flex;
   align-items: flex-start;
-  justify-content: flex-start;
+  justify-content: center;
   max-width: 100%;
 }
 .candidate-cards {
@@ -1597,4 +1622,45 @@
   flex-direction: row;
   justify-content: center;
   font-size: var(--font-size-sm);
+}
+.tombol-detail-paslon-1:hover,
+.tombol-detail-paslon-21:hover,
+.tombol-detail-paslon-2:hover,
+.tombol-detail-paslon-3:hover {
+  background-color: var(--color-cornflowerblue-200);
+  border: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+}
+.tombol-detail-paslon-21 {
+  cursor: pointer;
+  border: 1px solid var(--color-white);
+  padding: 7px 28px 11px;
+  background-color: var(--color-cornflowerblue-100);
+  position:sticky;
+  top: 210px;
+  left: 250px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-3xs);
+  box-sizing: border-box;
+  width: 150px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  z-index: 2;
+}
+.survey1 {
+  width: 90.5px;
+  position: relative;
+  font-size: var(--font-size-5xl);
+  font-weight: 900;
+  font-family: var(--font-hk-grotesk);
+  color: var(--color-snow);
+  text-align: center;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.survey1 {
+  font-size: var(--font-size-lgi);
 }
