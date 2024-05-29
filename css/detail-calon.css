@@ -1664,3 +1664,9 @@
 .survey1 {
   font-size: var(--font-size-lgi);
 }
+
+.nav-link.active {
+  font-weight: bold;
+  color: #007bff !important; /* Sesuaikan warna sesuai dengan tema Anda */
+  border-bottom: 2px solid #007bff; /* Garis bawah untuk item aktif */
+}
